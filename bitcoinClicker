@@ -1,0 +1,35 @@
+Let's make a game!
+	-Bitcoin Clicker
+	-by Illumi-Nation Studios
+	-version a1.0.0
+	-1/20/2017
+	-1/20/2017
+
+Settings :
+	-prices increase by 105%
+	-selling gives back 95%
+	-resources are hidden by default
+	-clickables are hidden by default
+	-buildings are hidden by default
+	-upgrades are hidden by default
+	-show log
+	-custom stylesheet : http://pastebin.com/raw/vWDguSvc
+
+Resources:
+	*bits
+	-named bit|bits
+	-displayed as %a bit%s
+	-visible	
+
+Clickables:
+	*Satoshi
+	-gives 1 bit
+	-visible
+	-named Mine Satoshi
+	-picture : http://image.flaticon.com/icons/svg/37/37011.svg
+
+Buildings:
+
+Upgrades:
+
+Achievements:
